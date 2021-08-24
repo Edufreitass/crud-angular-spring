@@ -12,3 +12,9 @@
   - `$ npm install -g @angular/cli`
 - Verificar versão do **AngularCLI**
   - `$ ng --version`
+- Criação do projeto em Angular
+	- `$ ng new crud-angular`
+- Após rodar o comando anterior, será exibido às seguintes perguntas:
+  - Would you like to add Angular routing? (y/N) **y**
+  - Which styleshee format would you like to use? (User arrow keys)
+**SCSS**
